@@ -1,0 +1,8 @@
+numpy
+chardet
+h5py
+pandas
+numba==0.48.0
+magenta
+librosa
+ffmpeg
